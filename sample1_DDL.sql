@@ -102,3 +102,5 @@ ALTER TABLE funcionario
 DROP numero CASCADE; -- Deleta a coluna e todas as foreign keys que apontam para ela.
 
 --UPDATE CHAMADA SET time_coracao = 'time' WHERE prontuario = 'bi';
+
+insert into chamada values ('BI3032281','Victor Hideki Ioza Tokumo','Spotify'); --chamada
